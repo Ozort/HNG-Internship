@@ -33,10 +33,10 @@
          <p data-testid="currentUTCTime">07:26:00</p>
 
           <!-- Track -->
-         <p data-testid="myTrack">Frontend Web Development</p>
+         <p data-testid="myTrack">Frontend</p>
 
          <!-- GitHub URL -->
-         <a href="https://github.com/Ozort/HNG-Internship.git" data-testid="githubURL">GitHub Repository</a>
+         <a href="https://github.com/Ozort/HNG-Internship.git" data-testid="githubURL">GitHubURL</a>
 
         </td>
       </tr>
